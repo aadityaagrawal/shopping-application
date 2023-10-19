@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'item_search_bar.dart';
 
 class CustomAppBar extends StatelessWidget {
   final String name;
